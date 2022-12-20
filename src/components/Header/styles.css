@@ -1,0 +1,30 @@
+.header{
+    position: absolute;
+    margin-top: auto;
+align-items: center; 
+width: 550px;
+height: 90px;
+left: 0px;
+top: 0px;
+background: #F55A5A;
+color : white;
+content: "";
+clear: both;
+}
+
+
+.nav{
+    margin: 0px;
+    align-items: center;
+}
+
+h3{
+    margin: 30px;
+}
+
+
+.header--img{
+  padding: 0px;
+  left: 620px;
+  
+}
