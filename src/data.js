@@ -8,7 +8,7 @@ export default [
         date: "12 Jan, 2021 - 24 Jan, 2021",
         coverImg: "https://source.unsplash.com/WLxQvbMyfas",
         location: "Mount Fuji",
-        country: "JAPAN"
+        country: "JAPAN",
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ export default [
         date: "27 May, 2021 - 8 Jun, 2021",
         coverImg: "https://source.unsplash.com/JmuyB_LibRo",
         location: "Sydney Opera House",
-        country: "AUSTRALIA"
+        country: "AUSTRALIA",
     },
     {
         id: 3,
@@ -26,6 +26,6 @@ export default [
         date: "01 Oct, 2021 - 18 Nov, 2021",
         coverImg: "https://source.unsplash.com/WLxQvbMyfas",
         location: "Geirangerfjord",
-        country: "NORWAY"
+        country: "NORWAY",
     }
 ]

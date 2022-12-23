@@ -1,25 +1,26 @@
 .header{
-    position: absolute;
-    margin-top: auto;
+    /* position: absolute; */
+    margin-top: -50px;
+    /* margin-bottom: -100%;  */
 align-items: center; 
 width: 550px;
 height: 90px;
-left: 0px;
-top: 0px;
+/* left: 0px; */
+/* top: 0px; */
 background: #F55A5A;
 color : white;
-content: "";
-clear: both;
+/* content: ""; */
+/* clear: both; */
 }
 
 
-.nav{
-    margin: 0px;
-    align-items: center;
-}
+
 
 h3{
-    margin: 30px;
+    padding: 40px;
+    /* padding-right: -440px; */
+    text-align: center;
+   
 }
 
 
